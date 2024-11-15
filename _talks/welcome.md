@@ -22,4 +22,4 @@ During the COVID-19 pandemic, I made a significant lifestyle change and develope
 
 Cooking is another activity I enjoy, and I am constantly experimenting with new recipes and techniques to create healthy, flavorful meals. It’s a fulfilling hobby that combines creativity and discipline.
 
-When I have spare time, I love to read—whether it’s science fiction, professional development books, or philosophical essays, reading helps me relax and expand my horizons.
+When I have spare time, I love to read—whether it’s science fiction or professional development books, reading helps me relax and expand my horizons.
