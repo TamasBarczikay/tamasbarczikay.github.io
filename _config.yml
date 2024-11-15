@@ -1,34 +1,23 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr Tamás Barczikay"
 title_separator          : "-"
-name                     : &name " "
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Dr Tamás Barczikay"
+description              : &description "Passionate about uncovering insights through data and applying advanced analytics to drive impactful decisions."
+url                      : https://tamasbarczikay.github.io # The base hostname & protocol for your site
+baseurl                  : "" # Leave this empty for sites directly hosted as <username>.github.io
+repository               : "tamasbarczikay/tamasbarczikay.github.io" # Update with your repository path
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
-  # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.png" # Make sure this file exists in the images folder
   name             : "Dr Tamás Barczikay"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  pronouns         : # Add pronouns if you'd like (e.g., "he/him")
+  bio              : "With over 10 years of experience as a data professional, I’ve contributed to data-driven decision-making in both academic and corporate settings."
+  location         : "Budapest, Hungary"
+  employer         : "Docler Holding"
+  uri              : # Leave empty if not used
+  email            : "barczikay.tamas@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
