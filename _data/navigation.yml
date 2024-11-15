@@ -6,7 +6,7 @@
 
 main:
   - title: "Welcome"
-    url: /welcome/about-me/
+    url: /talk/
 
   - title: "CV"
     url: /cv/
