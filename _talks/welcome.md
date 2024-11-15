@@ -3,6 +3,7 @@ title: "About Me"
 excerpt: "A brief introduction to who I am, my professional journey, and my hobbies."
 layout: single
 permalink: /welcome/about-me/
+date: 2024-11-15
 ---
 
 ## About Me
