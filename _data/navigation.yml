@@ -6,7 +6,7 @@
 
 main:
   - title: "Welcome"
-    url: /talk/
+    url: /welcome/
 
   - title: "CV"
     url: /cv/
@@ -16,12 +16,3 @@ main:
 
   - title: "Publications"
     url: /publications/
-
-  # - title: "Teaching"
-  #   url: /teaching/
-
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-
-  # - title: "Guide"
-  #   url: /markdown/
