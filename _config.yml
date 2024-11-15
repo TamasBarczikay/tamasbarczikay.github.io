@@ -201,16 +201,18 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  welcome:
+    output: true
+    permalink: /:collection/:path/
+  cv:
+    output: true
+    permalink: /cv/
+  portfolio:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-
 
 # These settings control how pages and collections are included in the site
 defaults:
