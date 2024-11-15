@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,57 +8,36 @@ redirect_from:
 ---
 
 {% include base_path %}
+Professional Background
+======
+* **Data Professional**, Docler Holding (since 2024)  
+  Conducting ad hoc analyses and research using machine learning models to study consumption and financial data.
+
+* **Research Fellow**, Hungarian Academy of Sciences (2015-2024)
+  Research assistant until 2018, promoted to assistant research fellow in 2019, and research fellow in 2021.  
+  Assisted in the [Hungarian Comparative Agendas Project's](https://politikatudomany.tk.hu/en/policy-agendas-hungary) data analysis tasks. Participated in developing the [CAP agenda dashboard](https://napirendek.hu/) for Hungarian parliamentary politics.
+
+* **Assistant Lecturer**, National University of Public Service (2018-2020)  
+  Commissioned to design, develop, and deliver Statistics, Econometrics, and Public Policy Evaluation courses for the Public Policy and Economics M.Sc. program.
+
+* **Teaching Assistant**, Corvinus University of Budapest (2010-2017)  
+  Taught Microeconomics I & II, Econometrics I & II, and International Economics.  
+  Served as a data expert for the University College London-led Horizon 2020 project: [POPREBEL](https://populism-europe.com/poprebel/).
+
+---
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Economics**, Corvinus University of Budapest (2015-2021)  
+  Awarded the New National Excellence Scholarship by the Ministry of Innovation and Technology in 2018 and 2019.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Ph.D. in Macroeconomics, Finance, and Econometrics**, Central Bank of Hungary (2015-2019)  
+  Weekly intensive supplementary training by the Central Bank of Hungary, primarily taught by professors of Central European University.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **M.A. in International Economics**, Corvinus University of Budapest (2013-2015)  
+  Scientific Students Association Competition 3rd prize in 2015.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **B.A. in Economics in Public Governance**, Corvinus University of Budapest (2009-2013)  
+  Scientific Students Association Competition 2nd prize in 2011.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
