@@ -5,8 +5,6 @@ permalink: /welcome/
 author_profile: true
 ---
 
-## Welcome
-
 With over 10 years of experience as a data professional, I’ve contributed to data-driven decision-making in both academic and corporate settings. Previously, I worked at the *Hungarian Academy of Sciences (HAS)*, focusing on statistical research and analysis.
 
 Currently, I support the Finance department at *Docler Holding*, parent company of Livejasmin and Playboy’s online platforms, with research and ad hoc analytical projects. My work includes developing machine learning models, conducting consumption analysis, and supporting strategic decision-making through advanced analytics.
