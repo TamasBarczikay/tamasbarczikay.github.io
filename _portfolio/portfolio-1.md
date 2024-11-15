@@ -1,11 +1,9 @@
 ---
-layout: archive
+layout: single
 title: ""
 permalink: /portfolio/
 author_profile: true
 ---
-
-## Portfolio Projects
 
 ### **1. Performance Analysis of *The Office* Series**
 Developed a Tableau dashboard to analyze show performance metrics and audience engagement. The dashboard provides insights into episode ratings, viewer trends, and other performance indicators.
