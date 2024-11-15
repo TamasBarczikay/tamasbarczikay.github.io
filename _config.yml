@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "Dr Tamás Barczikay"
 title_separator          : "-"
 name                     : &name "Dr Tamás Barczikay"
-description              : &description "Passionate about uncovering insights through data and applying advanced analytics to drive impactful decisions."
+description              : &description "Data Professional"
 url                      : https://tamasbarczikay.github.io # The base hostname & protocol for your site
 baseurl                  : "" # Leave this empty for sites directly hosted as <username>.github.io
 repository               : "tamasbarczikay/tamasbarczikay.github.io" # Update with your repository path
@@ -13,7 +13,7 @@ author:
   avatar           : "profile.png" # Make sure this file exists in the images folder
   name             : "Dr Tamás Barczikay"
   pronouns         : # Add pronouns if you'd like (e.g., "he/him")
-  bio              : "With over 10 years of experience as a data professional, I’ve contributed to data-driven decision-making in both academic and corporate settings."
+  bio              : "Data Professional"
   location         : "Budapest, Hungary"
   employer         : "Docler Holding"
   uri              : # Leave empty if not used
