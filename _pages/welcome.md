@@ -1,18 +1,15 @@
 ---
-title: "About Me"
-excerpt: "A brief introduction to who I am, my professional journey, and my hobbies."
+title: "Welcome"
 layout: single
-permalink: /welcome/about-me/
-date: 2024-11-15
+permalink: /welcome/
+author_profile: true
 ---
 
-## About Me
+## Welcome
 
 With over 10 years of experience as a data professional, I’ve contributed to data-driven decision-making in both academic and corporate settings. Previously, I worked at the *Hungarian Academy of Sciences (HAS)*, focusing on statistical research and analysis.
 
 Currently, I support the Finance department at *Docler Holding*, parent company of Livejasmin and Playboy’s online platforms, with research and ad hoc analytical projects. My work includes developing machine learning models, conducting consumption analysis, and supporting strategic decision-making through advanced analytics.
-
-I hold a Ph.D. from *Corvinus University of Budapest (CUB)* and an advanced degree in Macroeconomics, Finance, and Econometrics from the *Central Bank of Hungary*.
 
 ---
 
