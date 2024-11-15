@@ -10,7 +10,7 @@ repository               : "tamasbarczikay/tamasbarczikay.github.io" # Update wi
 
 # Site Author
 author:
-  avatar           : "profile.png" # Make sure this file exists in the images folder
+  avatar           : "IMG_7318.jpg" # Make sure this file exists in the images folder
   name             : "Dr Tamás Barczikay"
   pronouns         : # Add pronouns if you'd like (e.g., "he/him")
   bio              : "Data Professional"
