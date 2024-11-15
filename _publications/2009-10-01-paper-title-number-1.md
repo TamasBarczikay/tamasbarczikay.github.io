@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Selected Publications
+# Selected Publications
 
 1. **Máté, Ákos; Sebők, Miklós; Barczikay, Tamás**  
    *The effect of central bank communication on sovereign bond yields: The case of Hungary*  
@@ -21,7 +21,7 @@ author_profile: true
 
 ---
 
-## Publications
+# Publications
 
 1. **Pokornyi, Zsanett; Barczikay, Tamás; Bucholcz, Panna**  
    *Válságkommunikációs stratégiák a magyar közpolitika-alkotásban: Miniszterelnöki beszédek a koronavírus első két évében: egy közpolitikai elemzés*  
