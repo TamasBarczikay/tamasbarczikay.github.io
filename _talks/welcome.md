@@ -1,0 +1,24 @@
+---
+title: "About Me"
+excerpt: "A brief introduction to who I am, my professional journey, and my hobbies."
+layout: single
+permalink: /welcome/about-me/
+---
+
+## About Me
+
+With over 10 years of experience as a data professional, I’ve contributed to data-driven decision-making in both academic and corporate settings. Previously, I worked at the *Hungarian Academy of Sciences (HAS)*, focusing on statistical research and analysis.
+
+Currently, I support the Finance department at *Docler Holding*, parent company of Livejasmin and Playboy’s online platforms, with research and ad hoc analytical projects. My work includes developing machine learning models, conducting consumption analysis, and supporting strategic decision-making through advanced analytics.
+
+I hold a Ph.D. from *Corvinus University of Budapest (CUB)* and an advanced degree in Macroeconomics, Finance, and Econometrics from the *Central Bank of Hungary*.
+
+---
+
+### Outside of Work
+
+During the COVID-19 pandemic, I made a significant lifestyle change and developed a strong passion for resistance training. This has become an essential part of my daily routine, helping me maintain both physical and mental well-being.
+
+Cooking is another activity I enjoy, and I am constantly experimenting with new recipes and techniques to create healthy, flavorful meals. It’s a fulfilling hobby that combines creativity and discipline.
+
+When I have spare time, I love to read—whether it’s science fiction, professional development books, or philosophical essays, reading helps me relax and expand my horizons.
