@@ -1,24 +1,25 @@
 ---
 layout: single
-title: ""
+title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
 
-### **1. Performance Analysis of *The Office* Series**
-Developed a Tableau dashboard to analyze show performance metrics and audience engagement. The dashboard provides insights into episode ratings, viewer trends, and other performance indicators.
+### **Data Analysis and Presentation**
+#### **The Office Series Performance Dashboard**
+Developed a Tableau dashboard to analyze show performance metrics and audience engagement. Provided insights into episode ratings and viewer trends, showcasing skills in visual storytelling and business analysis.
+
+#### **Automated A/B Testing in R**
+Created a script in R for automated analysis, including statistical significance, effect size computation, and visualization. Simplified decision-making for product and marketing experiments by providing clear, actionable insights.
 
 ---
 
-### **2. Automated A/B Testing Evaluation in R**
-Created a script in R that performs automated analysis, including statistical significance, effect size computation, and visualization. The tool simplifies decision-making for product and marketing experiments.
+### **Machine Learning Models**
+#### **Advanced Clustering and Gradient Boosting**
+Built and deployed Python notebooks implementing DBSCAN and XGBoost to demonstrate theoretical knowledge. Focused on clustering intricate datasets and improving model accuracy.
 
 ---
 
-### **3. Advanced Clustering and Gradient Boosting**
-Built a Python notebook implementing DBSCAN and XGBoost for complex data segmentation and prediction. This project focuses on clustering intricate datasets and improving model accuracy for real-world applications.
-
----
-
-### **4. Image Recognition Pipeline on AWS / Databricks**
-Utilized PySpark to develop a scalable image recognition pipeline on Databricks and AWS. This project leverages cloud infrastructure for high-performance processing and training of models on large-scale image datasets.
+### **Cloud-Based Solutions**
+#### **Image Recognition Pipeline on AWS SageMaker**
+Designed and implemented an image recognition pipeline using neural networks on AWS SageMaker. Leveraged scalable cloud infrastructure for high-performance training and processing of large-scale datasets.
