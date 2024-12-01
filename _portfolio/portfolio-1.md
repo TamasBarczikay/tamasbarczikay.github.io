@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-### **Data Analysis and Presentation**
+### **1. Data Analysis and Presentation**
 #### **The Office Series Performance Dashboard**
 Developed a Tableau dashboard to analyze show performance metrics and audience engagement. Provided insights into episode ratings and viewer trends, showcasing skills in visual storytelling and business analysis.
 
@@ -14,12 +14,12 @@ Created a script in R for automated analysis, including statistical significance
 
 ---
 
-### **Machine Learning Models**
+### **2. Machine Learning Models**
 #### **Advanced Clustering and Gradient Boosting**
 Built and deployed Python notebooks on AWS implementing DBSCAN and XGBoost to demonstrate theoretical knowledge. Focused on clustering intricate datasets and improving model accuracy.
 
 ---
 
-### **Cloud-Based Solutions**
+### **3. Cloud-Based Solutions**
 #### **Image Recognition Pipeline on AWS SageMaker**
 Designed and implemented an image recognition pipeline using neural networks on AWS SageMaker. Leveraged scalable cloud infrastructure for high-performance training and processing of large-scale datasets. (Thie project is currently being developed.)
