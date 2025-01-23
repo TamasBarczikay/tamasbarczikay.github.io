@@ -5,6 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+Please check my GitHub account for further information.
+
 ### **1. Data Analysis and Presentation**
 #### **The Office Series Performance Dashboard**
 Developed a Tableau dashboard to analyze show performance metrics and audience engagement. Provided insights into episode ratings and viewer trends, showcasing skills in visual storytelling and business analysis.
